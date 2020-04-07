@@ -1,4 +1,7 @@
 # Convolutional_Neural_Networks
+
+This repository contains the 1st Deep Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Professor Michael Bronstein, Professor Bjorn Schuller, and Stefanos Zafeirou. The coureseworks were developed with their PhD students. 
+
 The first part of this task consisted of constructing our own forward pass for Conv2D, MaxPool2D, Linear and BatchNorm2d functions (replacing that of the Pytorch library). Please find the implementation in more details in the CNN_CIFAR10.ipynb document. <br>
 
 The second part consisted of building a ResNet-18 to perform classification on the CIFAR-10 dataset. An accuracy of 88.3% was reaching using: <br>
