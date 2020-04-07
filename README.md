@@ -5,4 +5,5 @@ The second part consisted of building a ResNet-18 to perform classification on t
 - Batch Normalisation <br>
 - Scheduler for the learning rate <br>
 
-Please refer to Part 2 of the CNN_CIFAR10.ipynb for more details on the implementation.
+Please refer to Part 2 of the CNN_CIFAR10.ipynb for more details on the implementation. <br>
+Part 3 constitutes to the answer to theoretical questions.
