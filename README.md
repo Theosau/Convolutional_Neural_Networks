@@ -6,4 +6,5 @@ The second part consisted of building a ResNet-18 to perform classification on t
 - Scheduler for the learning rate <br>
 
 Please refer to Part 2 of the CNN_CIFAR10.ipynb for more details on the implementation. <br>
-Part 3 constitutes to the answer to theoretical questions.
+The third part of this task is a set of answers to theoretical questions concerning the low/high level feature maps and the performance of the network.
+
